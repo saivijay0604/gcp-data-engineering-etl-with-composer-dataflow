@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GCP service account keys - never commit these
+service-account-key.json
+*.json
